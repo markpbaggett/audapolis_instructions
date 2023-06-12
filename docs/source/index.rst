@@ -1,5 +1,5 @@
-UTK Audapolis Procedures
-========================
+UTK Time Text Style Guide and Procedures
+========================================
 
 .. toctree::
    :maxdepth: 1

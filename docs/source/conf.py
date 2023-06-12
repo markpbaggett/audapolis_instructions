@@ -7,7 +7,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'UTK Audapolis Procedures'
+project = 'UTK Timed Text Guide and Procedures'
 copyright = '2023, Mark Baggett'
 author = 'Mark Baggett'
 
