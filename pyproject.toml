@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "audapolis-procedures"
+version = "0.1.0"
+description = ""
+authors = ["Mark Baggett <mbagget1@utk.edu>"]
+readme = "README.md"
+packages = [{include = "audapolis_procedures"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+Sphinx = "^5.3.0"
+sphinx-rtd-theme = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
