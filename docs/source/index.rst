@@ -8,7 +8,12 @@ UTK Time Text Style Guide and Procedures
 
    contents/*
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+   :glob:
 
+   projects/*
 
 Indices and tables
 ==================
